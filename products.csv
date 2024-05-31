@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Prices,Stock
+1,Amul Butter,Dairy,45,100
+2,Parle-G Biscuits,Snacks,10,500
+3,Tata Salt,Grocery,20,300
+4,Surf Excel Detergent,Household,200,150
+5,Dabur Honey,Grocery,250,80
+6,Maggie Noodles,Snacks,12,400
+7,Red Label Tea,Beverages,150,200
+8,Nescafe Coffee,Beverages,300,120
+9,Britannia Bread,Bakery,30,250
+10,Patanjali Ghee,Dairy,500,90
+11,Colgate Toothpaste,Personal Care,50,220
+12,Haldiram’s Namkeen,Snacks,100,300
+13,Nestle Milkmaid,Dairy,120,110
+14,Godrej Hair Dye,Personal Care,60,70
+15,Horlicks Health Drink,Beverages,400,130
+16,Fortune Cooking Oil,Grocery,110,180
+17,Bournvita,Beverages,350,140
+18,Ponds Cold Cream,Personal Care,75,200
+19,Dettol Soap,Personal Care,30,400
+20,Lakme Lipstick,Cosmetics,250,60
+21,Pampers Diapers,Baby Care,500,50
+22,Johnson’s Baby Powder,Baby Care,100,80
+23,Kissan Jam,Grocery,150,90
+24,McCain French Fries,Frozen Food,200,50
+25,Kellogg’s Cornflakes,Breakfast,300,100
+26,Tata Tea Gold,Beverages,200,180
+27,Lifebuoy Hand Wash,Personal Care,80,140
+28,Aashirvaad Atta,Grocery,400,210
+29,Lays Chips,Snacks,20,600
+30,Bingo Chips,Snacks,20,600
+31,Pepsi,Beverages,40,300
+32,Coca-Cola,Beverages,40,300
+33,Sprite,Beverages,40,300
+34,Fanta,Beverages,40,300
+35,Thums Up,Beverages,40,300
+36,Maaza,Beverages,50,300
+37,Slice,Beverages,50,300
+38,Bisleri Water,Beverages,20,500
+39,Aquafina Water,Beverages,20,500
+40,Kinley Water,Beverages,20,500
+41,Cavin’s Milkshake,Beverages,30,200
+42,Real Fruit Juice,Beverages,120,150
+43,Dove Shampoo,Personal Care,200,100
+44,Clinic Plus Shampoo,Personal Care,150,120
+45,Pantene Shampoo,Personal Care,180,90
+46,Head & Shoulders Shampoo,Personal Care,190,110
+47,Fair & Lovely Cream,Personal Care,99,150
+48,Pears Soap,Personal Care,40,400
+49,Lux Soap,Personal Care,30,400
+50,Rin Detergent,Household,60,300
