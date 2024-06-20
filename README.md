@@ -14,6 +14,13 @@ This project demonstrates a complete data pipeline that extracts data from CSV f
 
 ## Setup and Run Instructions
 
+### Datasets
+
+- customers.csv  
+- orderitems.csv
+- products.csv
+- orders.csv
+          
 ### Prerequisites
 
 - Python 3.7+
