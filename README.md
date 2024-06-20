@@ -46,6 +46,13 @@ pip install pandas plotly
 ```bash
 python main.py
 ```
-### Conclusion
+## Conclusion
 
 This project showcases the end-to-end process of extracting, processing, and visualizing data from CSV files. It utilizes both SQL for complex data processing and Python libraries like pandas, matplotlib, and Plotly for data manipulation and visualization.
+
+## Contributing
+
+- Fork the repository.
+- Create a new branch for your feature or improvement.
+- Commit your changes and push to your fork.
+- Create a pull request with a detailed description of your changes.
