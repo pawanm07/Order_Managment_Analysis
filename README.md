@@ -32,10 +32,10 @@ This project demonstrates a complete data pipeline that extracts data from CSV f
 Install the required packages using pip:
 
 ```bash
-pip install pandas pandas
-pip install pandas numpy
-pip install pandas matplotlib
-pip install pandas plotly
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install plotly
 ```
 
 ### Running the Project
