@@ -40,7 +40,7 @@ pip install plotly
 
 ### Running the Project
 
-- Ensure all CSV files are in the same directory as main.py.
+- Ensure all CSV files are in the same directory as main.py:
 - Run the main script:
 
 ```bash
