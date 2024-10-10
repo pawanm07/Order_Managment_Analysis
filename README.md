@@ -14,20 +14,20 @@ This project demonstrates a complete data pipeline that extracts data from CSV f
 
 ## Setup and Run Instructions
 
-### Datasets
+### Datasets:
 
 - customers.csv  
 - orderitems.csv
 - products.csv
 - orders.csv
           
-### Prerequisites
+### Prerequisites:
 
 - Python 3.7+
 - pip (Python package installer)
 - Jupyter Notebook , VSCode 
 
-### Dependencies
+### Dependencies:
 
 Install the required packages using pip:
 
@@ -38,10 +38,10 @@ pip install matplotlib
 pip install plotly
 ```
 
-### Running the Project
+### Running the Project:
 
-- Ensure all CSV files are in the same directory as main.py.
-- Run the main script:
+- Ensure all CSV files are in the same directory as main.py
+- Run the main script
 
 ```bash
 python main.py
